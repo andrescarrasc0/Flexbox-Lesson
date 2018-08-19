@@ -1,7 +1,9 @@
 .boxes{
     display: flex;
     border: 1px solid red;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    height: 10em;
 }
 
 .boxes div{
